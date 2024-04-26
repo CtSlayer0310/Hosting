@@ -1,0 +1,11 @@
+Model Information:
+* title:	[PS1/PSX] SPAS-12
+* source:	https://sketchfab.com/3d-models/ps1psx-spas-12-8f7751f774e544afb53035f5160c667b
+* author:	Firewarden (https://sketchfab.com/Firewarden)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "[PS1/PSX] SPAS-12" (https://sketchfab.com/3d-models/ps1psx-spas-12-8f7751f774e544afb53035f5160c667b) by Firewarden (https://sketchfab.com/Firewarden) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
